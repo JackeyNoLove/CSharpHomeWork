@@ -1,0 +1,6 @@
+F:\ccccc++++++\homework8\Orders\obj\Debug\Orders.csproj.CoreCompileInputs.cache
+F:\ccccc++++++\homework8\Orders\bin\Debug\Orders.exe.config
+F:\ccccc++++++\homework8\Orders\bin\Debug\Orders.exe
+F:\ccccc++++++\homework8\Orders\bin\Debug\Orders.pdb
+F:\ccccc++++++\homework8\Orders\obj\Debug\Orders.exe
+F:\ccccc++++++\homework8\Orders\obj\Debug\Orders.pdb

@@ -1,0 +1,16 @@
+F:\ccccc++++++\homework8\WF_OrderService\bin\Debug\WF_OrderService.exe.config
+F:\ccccc++++++\homework8\WF_OrderService\bin\Debug\WF_OrderService.exe
+F:\ccccc++++++\homework8\WF_OrderService\bin\Debug\WF_OrderService.pdb
+F:\ccccc++++++\homework8\WF_OrderService\obj\Debug\WF_OrderService.csprojAssemblyReference.cache
+F:\ccccc++++++\homework8\WF_OrderService\obj\Debug\WF_OrderService.MainForm.resources
+F:\ccccc++++++\homework8\WF_OrderService\obj\Debug\WF_OrderService.Properties.Resources.resources
+F:\ccccc++++++\homework8\WF_OrderService\obj\Debug\WF_OrderService.csproj.GenerateResource.cache
+F:\ccccc++++++\homework8\WF_OrderService\obj\Debug\WF_OrderService.csproj.CoreCompileInputs.cache
+F:\ccccc++++++\homework8\WF_OrderService\obj\Debug\WF_OrderService.exe
+F:\ccccc++++++\homework8\WF_OrderService\obj\Debug\WF_OrderService.pdb
+F:\ccccc++++++\homework8\WF_OrderService\bin\Debug\Orders.exe
+F:\ccccc++++++\homework8\WF_OrderService\bin\Debug\Orders.pdb
+F:\ccccc++++++\homework8\WF_OrderService\bin\Debug\Orders.exe.config
+F:\ccccc++++++\homework8\WF_OrderService\obj\Debug\WF_OrderService.csproj.CopyComplete
+F:\ccccc++++++\homework8\WF_OrderService\obj\Debug\WF_OrderService.EditForm.resources
+F:\ccccc++++++\homework8\WF_OrderService\obj\Debug\WF_OrderService.ItemEditForm.resources
