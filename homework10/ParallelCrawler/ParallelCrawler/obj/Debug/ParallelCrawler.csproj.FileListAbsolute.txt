@@ -1,0 +1,9 @@
+F:\ccccc++++++\homework10\ParallelCrawler\ParallelCrawler\obj\Debug\ParallelCrawler.csprojAssemblyReference.cache
+F:\ccccc++++++\homework10\ParallelCrawler\ParallelCrawler\obj\Debug\ParallelCrawler.Properties.Resources.resources
+F:\ccccc++++++\homework10\ParallelCrawler\ParallelCrawler\obj\Debug\ParallelCrawler.csproj.GenerateResource.cache
+F:\ccccc++++++\homework10\ParallelCrawler\ParallelCrawler\obj\Debug\ParallelCrawler.csproj.CoreCompileInputs.cache
+F:\ccccc++++++\homework10\ParallelCrawler\ParallelCrawler\bin\Debug\ParallelCrawler.exe.config
+F:\ccccc++++++\homework10\ParallelCrawler\ParallelCrawler\bin\Debug\ParallelCrawler.exe
+F:\ccccc++++++\homework10\ParallelCrawler\ParallelCrawler\bin\Debug\ParallelCrawler.pdb
+F:\ccccc++++++\homework10\ParallelCrawler\ParallelCrawler\obj\Debug\ParallelCrawler.exe
+F:\ccccc++++++\homework10\ParallelCrawler\ParallelCrawler\obj\Debug\ParallelCrawler.pdb

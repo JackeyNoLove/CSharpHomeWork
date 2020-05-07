@@ -1,0 +1,10 @@
+F:\ccccc++++++\homework9\SimpleCrawler\SimpleCrawler\bin\Debug\SimpleCrawler.exe.config
+F:\ccccc++++++\homework9\SimpleCrawler\SimpleCrawler\bin\Debug\SimpleCrawler.exe
+F:\ccccc++++++\homework9\SimpleCrawler\SimpleCrawler\bin\Debug\SimpleCrawler.pdb
+F:\ccccc++++++\homework9\SimpleCrawler\SimpleCrawler\obj\Debug\SimpleCrawler.csprojAssemblyReference.cache
+F:\ccccc++++++\homework9\SimpleCrawler\SimpleCrawler\obj\Debug\SimpleCrawler.Form1.resources
+F:\ccccc++++++\homework9\SimpleCrawler\SimpleCrawler\obj\Debug\SimpleCrawler.Properties.Resources.resources
+F:\ccccc++++++\homework9\SimpleCrawler\SimpleCrawler\obj\Debug\SimpleCrawler.csproj.GenerateResource.cache
+F:\ccccc++++++\homework9\SimpleCrawler\SimpleCrawler\obj\Debug\SimpleCrawler.csproj.CoreCompileInputs.cache
+F:\ccccc++++++\homework9\SimpleCrawler\SimpleCrawler\obj\Debug\SimpleCrawler.exe
+F:\ccccc++++++\homework9\SimpleCrawler\SimpleCrawler\obj\Debug\SimpleCrawler.pdb
